@@ -1,5 +1,5 @@
 (function(undefined) {
-
+console.log("a")
 var imageCount=0;
 function loadImage(url,angles,steps,offsetX){
     imageCount++;
