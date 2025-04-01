@@ -675,7 +675,7 @@ function Mob(x,y,name){
         if(health<=0){
             this.health=0;
             console.log("TEST 0PV")
-            remove(monsters,this);
+            // remove(monsters,this);
             if(this.death) deathmobs.push(new DeathMob(this));
         }else{
             this.health=health;
