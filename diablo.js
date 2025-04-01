@@ -1,5 +1,5 @@
 (function(undefined) {
-console.log("a")
+
 var imageCount=0;
 function loadImage(url,angles,steps,offsetX){
     imageCount++;
@@ -398,6 +398,7 @@ function loadZb(order,click){
 }
 
 function processClick(){
+    console.log("test")
     var zb=loadZb(true,true);
     var cx=(floor.click_x - floor.click_y)*acos,
         cy=(floor.click_x + floor.click_y)/2*asin;
