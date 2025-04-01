@@ -486,6 +486,7 @@ function renderFloor() {
 
 function renderMap() {
     console.log("azibuecazecaze")
+    alert("aaa")
     floor.save();
     floor.translate(floor.w/2, floor.h/2);
     var sc=0.5;
