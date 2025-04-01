@@ -485,8 +485,6 @@ function renderFloor() {
 }
 
 function renderMap() {
-    console.log("azibuecazecaze")
-    alert("aaa")
     floor.save();
     floor.translate(floor.w/2, floor.h/2);
     var sc=0.5;
@@ -581,6 +579,7 @@ function DeathMob(mob){
     }
 }
 
+// Not use
 function Barrel(x, y){
     Shape.call(this,barrelSprite,x,y);
     this.use=function(mob){
@@ -675,6 +674,7 @@ function Mob(x,y,name){
         var health=this.health - damage * 1000/(1000-this.resistance);
         if(health<=0){
             this.health=0;
+            console.log("TEST 0PV")
             remove(monsters,this);
             if(this.death) deathmobs.push(new DeathMob(this));
         }else{
