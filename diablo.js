@@ -398,7 +398,6 @@ function loadZb(order,click){
 }
 
 function processClick(){
-    console.log("test")
     var zb=loadZb(true,true);
     var cx=(floor.click_x - floor.click_y)*acos,
         cy=(floor.click_x + floor.click_y)/2*asin;
@@ -486,6 +485,7 @@ function renderFloor() {
 }
 
 function renderMap() {
+    console.log("azibuecazecaze")
     floor.save();
     floor.translate(floor.w/2, floor.h/2);
     var sc=0.5;
