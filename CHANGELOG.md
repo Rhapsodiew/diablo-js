@@ -4,14 +4,10 @@
 
 ### Added
 
-- **Death feature**: Player can now die in game. ([73b1e122](https://rendu-git.etna-alternance.net/module-9980/activity-53344/group-1053825/-/commit/73b1e122c462baaa529e378c7aa8278a9a72a51d) by [semavo_t](https://rendu-git.etna-alternance.net/semavo_t))
+- **Monster respawn, map module, Death feature**: New module added to the map. Monster spawn every 60s. Player can now die ([b30b092](https://github.com/mitallast/diablo-js/commit/b30b092fd74e73eb626bcfca9c5d1a3b9d68fcb1#diff-20d58da2a70dcbd6717377fa7c94b16cbd422b453c9c6f75504b9a3b03a0283f) by [Rhapsodiew](https://github.com/Rhapsodiew))
 
-- **Monster wave**: New monsters appear every minute. ([970e302f](https://rendu-git.etna-alternance.net/module-9980/activity-53344/group-1053825/-/commit/970e302fcd9b2c5ade0f65cb32c8bdd1f4aab047) by [semavo_t](https://rendu-git.etna-alternance.net/semavo_t))
-
-- **New map modufle**: Bigger map, new rooms / module. ([92473401](https://rendu-git.etna-alternance.net/module-9980/activity-53344/group-1053825/-/commit/92473401c941fc45ca1e075aa5b739c192c6d44b) by [semavo_t](https://rendu-git.etna-alternance.net/semavo_t))
+- **Added Changelog**: Changelog added ([b312cba](https://github.com/Rhapsodiew/diablo-js/commit/b312cbac5d97c6aed633ee403d36c4a607ee7bcf) by [Rhapsodiew](https://github.com/Rhapsodiew))
 
 ### Changed
 
-- **Prettier format**: Format diablo.js file to prettier. Make it more readable. ([5468d9e2](https://rendu-git.etna-alternance.net/module-9980/activity-53344/group-1053825/-/commit/5468d9e29c3e51af9e0728c141116d50e7ca88e3) by [semavo_t](https://rendu-git.etna-alternance.net/semavo_t))
-
-- **Documentation of diablo.js**: Commented and added docstrings to function. ([97cf5942](https://rendu-git.etna-alternance.net/module-9980/activity-53344/group-1053825/-/commit/97cf5942f4e07253d951db5fc20b7b54153edb80) by [semavo_t](https://rendu-git.etna-alternance.net/semavo_t))
+- **Fix the README**: README fixed ([6f7ad32](https://github.com/Rhapsodiew/diablo-js/commit/6f7ad3238f5799b99f4f1efb47fdc3020d763fe5) by [Rhapsodiew](https://github.com/Rhapsodiew))

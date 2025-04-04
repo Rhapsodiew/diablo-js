@@ -1,7 +1,7 @@
 <h1 align="center">React Native</h1>
 
 <p align="center">
-  <a href="https://rendu-git.etna-alternance.net/module-9980/activity-53344/group-1053825/-/blob/death/LICENSE">
+  <a href="https://github.com/Rhapsodiew/diablo-js/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="This project is released under the MIT license." />
   </a>
 </p>
@@ -15,7 +15,7 @@ Mini diablo game with html5 canvas and javascript
 - [Documentation](#-documentation)
 - [Road map](#-road-map)
 - [Test your features](#-test-your-features)
-- [Usefull tools](#-useful-tools)
+- [Useful tools](#-useful-tools)
 - [License](#-license)
 
 ## 🎮 Demo
@@ -70,4 +70,4 @@ http://www.blizzhackers.cc/viewtopic.php?f=182&t=370174&start=0
 
 This project is MIT licensed, as found in the [LICENSE][l] file.
 
-[l]: https://rendu-git.etna-alternance.net/module-9980/activity-53344/group-1053825/-/blob/death/LICENSE
+[l]: https://github.com/Rhapsodiew/diablo-js/blob/master/LICENSE
